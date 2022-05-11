@@ -15,4 +15,3 @@ get_from_dict('Слово', lang_from='ru', lang_to='en') # => python dict objec
 ```
 
 # __*Good luck 🤞*__
-
